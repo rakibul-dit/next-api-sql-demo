@@ -33,5 +33,5 @@ export default async function handler(
 	await runMiddleware(req, res, cors);
 
 	// Rest of the API logic
-	res.json({ lastUpdate: "2022-11-06T20:53:25Z" });
+	res.json({ lastUpdate: "2022-11-10T20:53:25Z" });
 }
